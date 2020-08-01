@@ -2,7 +2,7 @@
 
 > Track your daily cardio and resistance workouts and view charts with the combined daily totals.
 
-LIVE LINK: 
+LIVE LINK: https://workout-tracker-darthmirandor.herokuapp.com/
 
 # Installation
 
